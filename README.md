@@ -16,6 +16,9 @@ The results of the Vine Review Analysis can be found as per workings/code in jup
 [Vine Review Analysis](https://github.com/fareenamughal/Amazon_Vine_Analysis/blob/e2969ebdbdb0a006a33f47d4bdcb041815554a6d/VIne_Review_Analysis.ipynb)
 
 2. The screenshot of the results of running the analysis as per jupyter notebook. 
+![Vine Review Analysis Summary](https://github.com/fareenamughal/Amazon_Vine_Analysis/blob/e3b5d5f6a68fb391bc722a0250988404df9d4591/Resources/images/Vine_Review_Analysis_Summary.png)
+
+
 ![Vine Review Analysis] (Summary]https://github.com/fareenamughal/Amazon_Vine_Analysis/blob/e3b5d5f6a68fb391bc722a0250988404df9d4591/Resources/images/Vine_Review_Analysis_Summary.png)
 
 There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
