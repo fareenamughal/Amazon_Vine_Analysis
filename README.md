@@ -29,13 +29,16 @@ This summary answers the 3 questions below:
    - Out of the 44 Vine reviews 26 were five star reviews whereas out of the 53,974 non-Vine reviews 28,950 were five star reviews
 
 3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-    - 59.1% of the Vine reviews were five star whilst 53.6% of the non-Vine reviews were five star. Please note these percentages are based as a proportion       of the total vine reviews and non-Vine reviews respectively. They are not based as a percentage of the total helpful reviews.
+    - 59% of the Vine reviews were five star whilst 54% of the non-Vine reviews were five star. Please note these percentages are based as a proportion       of the total vine reviews and non-Vine reviews respectively. They are not based as a percentage of the total helpful reviews.
 
 ___
 
 ## Summary:
 
-Based on the analysis, the paid 5 star reviews as a percentage of the total paid reviews was 59 as compared to 54 percent for the unpaid reviews. This, on face value, seeems to suggest highly biased reviews. However, on further analysis it is clear that the total paid reviews as a percentage of the total helpful reviews is less than 0.1%. The paid five star % i.e. 59 is actually 59% of the 0.1% which is an immaterial number. In conclusion the results of the vine review analysis indicate that reviews are not biased.
+Based on the analysis, the paid 5 star reviews as a percentage of the total paid reviews was 59% as compared to 54% for the unpaid reviews. This, on face value, seeems to suggest highly biased reviews. However, on further analysis it is clear that the total paid reviews as a percentage of the total helpful reviews is less than 0.1%. The paid five star reviews of 59%, is actually 59% of the 0.1% which is an immaterial number. In conclusion, the results of the vine review analysis indicate that reviews are not biased.
+
+The additional workings supporting this analysis are as per screenshot below.
+![Additional workings](https://github.com/fareenamughal/Amazon_Vine_Analysis/blob/fd16fbea59fd0123c7aa714e5dc3ba37addc89c5/Resources/images/Additional%20workings.png)
 
 
 
