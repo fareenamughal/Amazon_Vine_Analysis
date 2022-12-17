@@ -40,6 +40,6 @@ Based on the analysis, the paid 5 star reviews as a percentage of the total paid
 
 Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
 
-![Revised NYC Citibike csv](https://github.com/fareenamughal/bikesharing/blob/5082e0ac1987257a5e8bb1d4bd9399a949494e53/Images/screenshot_nyc_citibike_rev_csv_file.png)
+![Vine Review Analysis Summary](https://github.com/fareenamughal/Amazon_Vine_Analysis/blob/e2969ebdbdb0a006a33f47d4bdcb041815554a6d/Resources/images/Vine_Review_Analysis_Summary_DF.png)
 
-![image [ (https://github.com/fareenamughal/Amazon_Vine_Analysis/blob/e2969ebdbdb0a006a33f47d4bdcb041815554a6d/Resources/images/Vine_Review_Analysis_Summary_DF.png)]
+![image [ 
