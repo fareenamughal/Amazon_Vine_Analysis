@@ -12,24 +12,19 @@ ___
 ___
 
 The results of the Vine Review Analysis can be found as per workings/code in jupyter notebook and screen shot image below:
-1.	The code is in the jupyter notebook as per link below  
+A.	The code is in the jupyter notebook as per link below  
 [Vine Review Analysis](https://github.com/fareenamughal/Amazon_Vine_Analysis/blob/e2969ebdbdb0a006a33f47d4bdcb041815554a6d/VIne_Review_Analysis.ipynb)
 
-2. The screenshot of the results of running the analysis as per jupyter notebook. 
+B. The screenshot of the results of running the analysis as per jupyter notebook. 
 
 ### **Vine Review Analysis Summary**
 
 ![Vine Review Analysis Summary](https://github.com/fareenamughal/Amazon_Vine_Analysis/blob/e3b5d5f6a68fb391bc722a0250988404df9d4591/Resources/images/Vine_Review_Analysis_Summary.png)
 
-
-![Vine Review Analysis Summary](https://github.com/fareenamughal/Amazon_Vine_Analysis/blob/e3b5d5f6a68fb391bc722a0250988404df9d4591/Resources/images/Vine_Review_Analysis_Summary.png)
-
-There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
-Results: Using bulleted lists and images of DataFrames as support, address the following questions:
-
-How many Vine reviews and non-Vine reviews were there?
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+This summary answers the 3 questions below:
+1. How many Vine reviews and non-Vine reviews were there?
+2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+3 .What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 
 ___
