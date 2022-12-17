@@ -23,9 +23,13 @@ B. The screenshot of the results of running the analysis as per jupyter notebook
 
 This summary answers the 3 questions below:
 1. How many Vine reviews and non-Vine reviews were there?
-2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-3 .What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+  - The Vine reviews are identified by the letter Y and non-Vine reviews by letter N. There were 44 Vine reviews and 53,978 non-Vine reviews    
 
+2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?  
+  - Out of the 44 Vine reviews 26 were five star reviews whereas out of the 53,974 non-Vine reviews 28,950 were five star reviews
+
+3 .What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+  - 59.1% of the Vine reviews were five star whilst 53.6% of the non-Vine reviews were five star. Please note these percentages are based as a proportion       of the total vine reviews and non-Vine reviews respectively. They are not based as a percentage of the total helpful reviews.
 
 ___
 
