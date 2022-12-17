@@ -4,18 +4,19 @@ ___
 
 ## Overview of the analysis of the Vine program
 ___
-Amazon product review for various shoe brands was extracted from the web, transformed and loaded using Pyspark in google collab and Relational Database Services (RDS) offerred by Amazon Web Services(AWS) This was followed by loading the data into pgAdmin via AWS-RDS. pgAdmin made it easier to transform the data into tables which were then downloaded into seperate coma seperated files (CSV). The csv files, particurlarly the vine_table csv was loaded int jupyter notebook to run pandas code so as to prepare an analyse of the customer reviews received for the various shoe brands. This report focuses on the customer reviews and the purpose is to determine whether there is any bias toward favorable reviews from Vine members who have provided reviews in the shoes dataset.
+Amazon product review for various shoe brands was extracted from the web, transformed and loaded using Pyspark in google collab and Relational Database Services (RDS) offerred by Amazon Web Services(AWS) This was followed by loading the data into pgAdmin via AWS-RDS. pgAdmin made it easier to transform the data into tables which were then downloaded into seperate coma seperated files (CSV). The csv files, particurlarly the vine_table csv was loaded int jupyter notebook to run pandas code so as to prepare an analysis of the customer reviews received for the various shoe brands. This report focuses on the customer reviews and the purpose is to determine whether there is any bias toward favorable reviews from Vine members who have provided reviews in the shoes dataset.
 
 ___
 
 ## Results
 ___
 
-The results of the Vine Review Analysis can be found as per screen shot image and code below:
+The results of the Vine Review Analysis can be found as per workings/code in jupyter notebook and screen shot image below:
 1.	The code is in the jupyter notebook as per link below  
-[Vine Review Analysis]( https://github.com/fareenamughal/Amazon_Vine_Analysis/blob/63d3881c688e7b45103e73a9560ffaceae0c4041/VIne_Review_Analysis.ipynb)
+[Vine Review Analysis](https://github.com/fareenamughal/Amazon_Vine_Analysis/blob/e2969ebdbdb0a006a33f47d4bdcb041815554a6d/VIne_Review_Analysis.ipynb)
 
-
+2. The screenshot of the results of running the analysis as per jupyter notebook. 
+Vine_
 
 
 There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
@@ -41,4 +42,4 @@ Summary: In your summary, state if there is any positivity bias for reviews in t
 
 ![Revised NYC Citibike csv](https://github.com/fareenamughal/bikesharing/blob/5082e0ac1987257a5e8bb1d4bd9399a949494e53/Images/screenshot_nyc_citibike_rev_csv_file.png)
 
-![image](https://user-images.githubusercontent.com/112118706/208268200-37ed105a-3e39-4a87-95c2-a680e9077440.png)
+![image (https://github.com/fareenamughal/Amazon_Vine_Analysis/blob/e2969ebdbdb0a006a33f47d4bdcb041815554a6d/Resources/images/Vine_Review_Analysis_Summary_DF.png)
