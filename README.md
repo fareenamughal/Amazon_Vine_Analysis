@@ -19,7 +19,7 @@ The results of the Vine Review Analysis can be found as per workings/code in jup
 
     **Vine Review Analysis Summary**
 
-    ![Vine Review Analysis Summary]     (https://github.com/fareenamughal/Amazon_Vine_Analysis/blob/e3b5d5f6a68fb391bc722a0250988404df9d4591/Resources/images/Vine_Review_Analysis_Summary.png)
+![Vine Review Analysis Summary]     (https://github.com/fareenamughal/Amazon_Vine_Analysis/blob/e3b5d5f6a68fb391bc722a0250988404df9d4591/Resources/images/Vine_Review_Analysis_Summary.png)
 
 
 ![Vine Review Analysis] (Summary]https://github.com/fareenamughal/Amazon_Vine_Analysis/blob/e3b5d5f6a68fb391bc722a0250988404df9d4591/Resources/images/Vine_Review_Analysis_Summary.png)
