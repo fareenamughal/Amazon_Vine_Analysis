@@ -11,9 +11,20 @@ ___
 ## Results
 ___
 
-The results of the Vine Review Analysis can be found as per workings/code in jupyter notebook and screen shot image below:
-A.	The code is in the jupyter notebook as per link below  
+The results of the Vine Review Analysis can be found as per workings/code in jupyter notebook and the screen shot image below which provides a summmary of the results. 
+
+The summary was generated using the vine_table.csv generated from pgAdmin after performing ETL using pyspark & AWS-RDS on the Amazon Shoes dataset. The necessary files for this are linked below in part A.
+
+A.	The Amazon Review Analysis - deliverable 1 files
+[Amazon Reviews ETL](https://github.com/fareenamughal/Amazon_Vine_Analysis/blob/ac5cb2e4866ef8da2e4c27f76c88b8f30c3bd1af/Amazon_Reviews_ETL.ipynb)
+
+[vine_table_csv](https://media.githubusercontent.com/media/fareenamughal/Amazon_Vine_Analysis/main/Resources/pgAdmin_vine_table.csv)
+
+
+The code is in the jupyter notebook as per link below  
 [Vine Review Analysis](https://github.com/fareenamughal/Amazon_Vine_Analysis/blob/e2969ebdbdb0a006a33f47d4bdcb041815554a6d/VIne_Review_Analysis.ipynb)
+
+
 
 B. The screenshot of the results of running the analysis as per jupyter notebook. 
 
